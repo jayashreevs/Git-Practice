@@ -1,0 +1,12 @@
+# 📊 Trend Analyzer
+
+**Trend Analyzer** is a web application that displays real-time trending topics along with public sentiment using APIs and machine learning. It allows users to stay updated with the latest news and discussions while understanding public opinion.
+
+## 🚀 Features
+
+- 🔄 Real-time trending topics updated every 5 minutes
+- 🤖 Sentiment analysis using machine learning (Positive, Negative, Neutral)
+- 📁 Download trend data in CSV format
+- 🔍 Filter topics by category (e.g., Technology, Sports, Politics)
+- 🛠 API error monitoring and logging (Developer/Admin feature)
+
