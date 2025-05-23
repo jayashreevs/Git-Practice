@@ -10,3 +10,12 @@
 - 🔍 Filter topics by category (e.g., Technology, Sports, Politics)
 - 🛠 API error monitoring and logging (Developer/Admin feature)
 
+## 🧰 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Machine Learning:** Python (scikit-learn or any NLP library)
+- **API Source:** Twitter Trends / News API / Custom Data Feed
+- **Database:** MongoDB or Firebase (optional, for logs/history)
+- **Deployment:** Render / Vercel / Netlify / Heroku
+
